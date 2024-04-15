@@ -1,0 +1,15 @@
+{
+  "name": "proyectofc",
+  "version": "1.0.0",
+  "description": "Campus para un colegio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Juan Guerrero, Juan Calderon, Linsay Bohada",
+  "license": "ISC"
+}
