@@ -11,5 +11,8 @@
     "Gulp"
   ],
   "author": "Juan Guerrero, Juan Calderon, Linsay Bohada",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.75.0"
+  }
 }
